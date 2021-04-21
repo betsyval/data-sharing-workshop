@@ -3,7 +3,8 @@ title: Conclusion
 teaching: 10
 exercises: null
 questions: []
-objectives: []
+objectives:
+  - Thank the attendees, respond to possible final questions
 keypoints: []
 day: 1
 order: 275000
