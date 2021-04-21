@@ -1,5 +1,5 @@
 ---
-title: Setting up an OSF Data Component
+title: Building an OSF project
 teaching: 2
 exercises: 13
 questions: []
@@ -11,16 +11,16 @@ keypoints:
 day: 1
 order: 62500
 missingDependencies:
-  - /fig/osf-new-project-form.jpg
   - /fig/osf-go-to-new-project.jpg
   - /fig/osf-new-component.jpg
-  - /fig/osf-new-component-form.jpg
   - /fig/osf-project-license.jpg
   - /fig/osf-make-public.jpg
-  - /fig/osf-component-id.jpg
 dependencies:
   - /fig/osf-new-project.jpg
   - /fig/osf-doi.jpg
+  - /fig/osf-new-project-form.jpg
+  - /fig/osf-component-id.jpg
+  - /fig/osf-new-component-form.jpg
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: We'll create a project and a data component on the OSF where we'll
   upload our data.
