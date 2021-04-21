@@ -29,7 +29,6 @@ There are some points below for reference:
 
 ### Creating an OSF Project and Component
 
-* Use [https://osf.io/](https://osf.io/) and not the testing server!
 
 * Make sure you have a dedicated component for the data
 * Set the data storage region to `Germany - Frankfurt`
