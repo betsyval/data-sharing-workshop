@@ -36,9 +36,9 @@ We'll be creating a new project on the Open Science Framework and adding a compo
 2. Click 'Create new project'
 ![OSF new project screenshot]({% include installedFile.lqd path='/fig/osf-new-project.jpg' %})
 Then fill in the form:
-![OSF new project form screenshot]({% include installedFile.lqd path='/fig/osf-new-project-form.jpg' %})
+
 Then click 'Go to project'
-![OSF navigate to new project screenshot]({% include installedFile.lqd path='/fig/osf-go-to-new-project.jpg' %})
+
 3. Create a new project component.
 This component will house the data.
 ![OSF new component screenshot]({% include installedFile.lqd path='/fig/osf-new-component.jpg' %})
