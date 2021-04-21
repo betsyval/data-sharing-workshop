@@ -26,10 +26,6 @@ summary: We'll create a project and a data component on the OSF where we'll
   upload our data.
 
 ---
-> #### Note:
-> We'll be using the [test subdomain](https://test.osf.io/) of the OSF because we're testing things.
-{: .challenge}
-
 We'll be creating a new project on the Open Science Framework and adding a component which will house the data we upload.
 
 1. Open [osf.io](https://osf.io/myprojects/) in your browser and log in
