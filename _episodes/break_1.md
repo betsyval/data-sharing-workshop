@@ -16,4 +16,4 @@ day: 1
 order: 75000
 
 ---
-This is a time for you to get some refreshment and clear your mind a little in preparation for the next part of the workshop.
+This is the time to grab a coffee and ask questions if needed
