@@ -30,7 +30,7 @@ Data sharing is the process of making research data available for wider dissemin
 
 Tips to use Open Science Framework (https://osf.io/ ) as a (private) repository for data collection and as a public tool for data sharing are also included
 
-Participants are asked about their experience with data sharing and OSF in particular.
+Participants are asked about their experience with data sharing and OSF in particular: what they do, which benefits do they find in that, which flaws do they perceive.
 
 
 
