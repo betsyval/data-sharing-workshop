@@ -28,9 +28,7 @@ Tips to use Open Science Framework (https://osf.io/ ) as a (private) repository 
 > Have a working account on Open Science Framework
 {: .prereq}
 
+Participants are asked about their experience with data sharing and OSF in particular.
 
 
-## HTML
 
-You can also write in HTML.
-The special `<kbd>` tag is available for use in neatly styling instructions like "press <kbd>Ctrl</kbd> + <kbd>Home</kbd>".
