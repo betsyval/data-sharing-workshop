@@ -3,8 +3,8 @@ title: Coffee
 teaching: null
 exercises: null
 duration: 15
-day: 1
-order: 175000
+day: ""
+order: 100000
 summary: Time to get some tea/coffee/etc. and rest your eyes and brain a bit.
 questions: null
 objectives: null
