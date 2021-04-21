@@ -5,9 +5,7 @@ exercises: 13
 questions: []
 objectives:
   - Have an OSF project component ready to house the data
-keypoints:
-  - We use the _test_ subdomain of the OSF because we're testing things
-  - Make a note of the data component's id - we'll need that later!
+keypoints: []
 day: 1
 order: 62500
 missingDependencies:
