@@ -2,9 +2,8 @@
 title: Introduction
 teaching: 20
 exercises: 10
-duration: 30
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+duration: 5
+summary: This part is to introduce the workshop and the attendees
 questions: null
 objectives: null
 keypoints: null
