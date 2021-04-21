@@ -36,18 +36,5 @@ We'll be creating a **new project** on the Open Science Framework and adding a c
 
 Now you have your OSF project! You can use this space to freely store your data (and code or material). This space is still private, so you can use it to share data with your colleagues (i.e. from your own lab)
 
-When you are ready to share the data, you will need to navigate the OSF project and give it an open license.
-CC-BY 4.0 is a good license to use - people are free to reuse the contents provided that they acknowledge that they got it from you.
 
-
-Now we have provided a license, let's make this component public.
-Click 'Make Public'
-
-
-
-
-> ## DOIs and data citations
-> You can create a DOI for your data to make it easy to cite.
-> This is as simple as clicking the 'Create DOI' button and then confirming your choice.
-{: .solution}
 
