@@ -24,7 +24,7 @@ The workshop aims at showing the benefits of data sharing.
 Data sharing is the process of making research data available for wider dissemination. For a primer on data sharing, visit https://osf.io/wp4zu/ .
 
 
-> ## `{: .prereq}` Tag
+> ## prerequisites
 > Have an account on Open Science Framework
 {: .prereq}
 
