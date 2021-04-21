@@ -18,7 +18,7 @@ summary: We have a large block of time dedicated to implementing born open data
 ---
 ## Putting it to Use
 
-The goal of today is to leave with a workflow which implements born open data in your own workflow, and with an understanding of how to implement this into your other projects as they are developed.
+The goal of today is to leave with a workflow which implements born open data in your own workflow, and with an understanding of how to implement this into your other projects as they are developed. In order to do this, spend a few minutes thinking about your workflow and which phase of it can benefit from the use of OSF. 
 
 For this session, you'll need a project of your own - perhaps one of:
 * A copy of a recent project where you've already collected data
