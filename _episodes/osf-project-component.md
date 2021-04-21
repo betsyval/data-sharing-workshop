@@ -32,7 +32,7 @@ We'll be creating a **new project** on the Open Science Framework and adding a c
 	> *select the **location** as `Germany - Frankfurt`.
 3. Click 'Create'
 
-Now you have your OSF project! You can use this space to freely store your data (and code or material). This space is still private, so you can use it to share data with your colleagues (i.e. from your own lab)
+Now you have your OSF project! You can use this space to freely store your data (and code or material). This space is still private, so you can use it to share data with your data partners (add contributors or view-only links)
 
 
 
