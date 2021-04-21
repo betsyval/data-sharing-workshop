@@ -12,7 +12,7 @@ start_times:
 setup_files: []
 language: en
 venue: null
-address: route de Troinex
+address: null
 country: CH
 latitude: null
 longitude: null
@@ -21,13 +21,11 @@ collaborative_notes: null
 eventbrite: null
 optional_intro_sections:
   - requirements
-  - accessibility
 kind: workshop
 ukrn_email: training@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
-
 collections:
   episodes:
     output: true
