@@ -22,9 +22,9 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 Before sharing the data, make sure to:
 > ## to be checked
-> check your ethical forms (if research on human participants, did the participant agreed on their data being publicly shared?
-> include a README file with all the metadata (e.g., explanation of variables)
-> remove sensible data that cannot be shared (name, age, etc.)
+> * check your ethical forms (if research on human participants, did the participant agreed on their data being publicly shared?
+> * include a README file with all the metadata (e.g., explanation of variables)
+> * remove sensible data that cannot be shared (name, age, etc.)
 {: .checklist}
 
 
