@@ -2,9 +2,7 @@
 title: Applying to Your Own Workflow
 teaching: 10
 exercises: 180
-questions:
-  - When will I check data licensing for a project?
-  - When will I implement data saving?
+questions: []
 objectives:
   - Implement what we've learned into our own workflow.
 keypoints: []
