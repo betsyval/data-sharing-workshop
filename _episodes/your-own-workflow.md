@@ -37,30 +37,12 @@ There are some points below for reference:
 
 * You can create a DOI so you can cite your data easily
 
-### Creating an OSF PAT
-
-* `username` > `settings` > `Personal access tokens`
-* Make sure your token has the `osf.nodes.data_write` scope
-
-### Writing the save data scripts
-
-* The participant's computer runs the study
-* Then sends the data to your server for saving
-* The server uses the OSF API to upload the data
-
-* Add `secrets.php` or whichever other file you use to store your PAT to your `.gitignore` file so you don't upload your PAT to GitHub!
 
 * Separate public from private data!
     * Private data might be Prolific/MTurk participant IDs
     * Any free-text responses
 
-> ## Don't call the OSF from the participant's computer!
-> To upload data to the OSF, you need your personal access token.
-> If you have the participant's computer upload the data, you'll have to give your participants your PAT.
-> Exposing your PAT like this means the participant could write any data they wanted to any of your OSF projects! **This is very bad**.
->
-> Instead, have the participant send the data to your server, and send the data from your server to the OSF.
-{: .solution}
+
 
 ### Data dictionary
 * Variable
