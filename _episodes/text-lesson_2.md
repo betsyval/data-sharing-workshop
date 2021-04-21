@@ -1,7 +1,7 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Making the OSF project public
+teaching: 10
+exercises: 10
 duration: null
 summary: This template shows you how to use the various different special text
   boxes on offer.
