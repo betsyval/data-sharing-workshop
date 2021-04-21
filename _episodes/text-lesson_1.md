@@ -20,6 +20,8 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 ## Introduction
 
 The workshop aims at showing the benefits of data sharing.
+Data sharing is the practice of making data available for other researchers and it helps to find out false positives in research.
+
 Tips to use Open Science Framework (https://osf.io/ ) as a (private) repository for data collection to be used as a public tool for data sharing are also including
 
 > ## `{: .prereq}` Tag
