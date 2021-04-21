@@ -28,7 +28,7 @@ We'll be creating a **new project** on the Open Science Framework and adding a c
 
 1. Open [osf.io](https://osf.io/myprojects/) in your browser and log in
 2. Click 'Create new project': 
-	> * choose a test title &
+	> * choose a test title 
 	> * select the **location** as `Germany - Frankfurt`.
 3. Click 'Create'
 
