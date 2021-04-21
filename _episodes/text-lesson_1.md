@@ -23,11 +23,12 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 The workshop aims at showing the benefits of data sharing.
 Data sharing is the process of making research data available for wider dissemination. For a primer on data sharing, visit https://osf.io/wp4zu/ .
 
-Tips to use Open Science Framework (https://osf.io/ ) as a (private) repository for data collection to be used as a public tool for data sharing are also including
 
 > ## `{: .prereq}` Tag
-> Have a working account on Open Science Framework
+> Have an account on Open Science Framework
 {: .prereq}
+
+Tips to use Open Science Framework (https://osf.io/ ) as a (private) repository for data collection to be used as a public tool for data sharing are also including
 
 Participants are asked about their experience with data sharing and OSF in particular.
 
