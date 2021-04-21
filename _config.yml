@@ -1,16 +1,19 @@
 ---
 workshop_id: GENDS20210421_01
 topic: data-sharing
-title: Test workshop
-instructors: []
-instructor_emails: []
+title: Data sharing workshop
+instructors:
+  - Beatrice Valentini
+instructor_emails:
+  - beatrice.valentini@unige.ch
+  - beatrice.valentini@unige.ch
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
 venue: null
-address: null
+address: route de Troinex
 country: CH
 latitude: null
 longitude: null
