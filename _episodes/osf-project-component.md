@@ -9,7 +9,7 @@ keypoints:
   - We use the _test_ subdomain of the OSF because we're testing things
   - Make a note of the data component's id - we'll need that later!
 day: 1
-order: 225000
+order: 125000
 missingDependencies:
   - /fig/osf-new-project-form.jpg
   - /fig/osf-go-to-new-project.jpg
