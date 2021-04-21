@@ -1,7 +1,7 @@
 ---
 title: Practical application
 teaching: 10
-exercises: 180
+exercises: 120
 questions: []
 objectives:
   - Implement what we've learned into our own workflow.
