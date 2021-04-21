@@ -1,5 +1,5 @@
 ---
-title: Applying to Your Own Workflow
+title: Practical application
 teaching: 10
 exercises: 180
 questions: []
