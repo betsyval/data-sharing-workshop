@@ -11,14 +11,14 @@ order: 62500
 missingDependencies:
   - /fig/osf-go-to-new-project.jpg
   - /fig/osf-new-component.jpg
-  - /fig/osf-project-license.jpg
-  - /fig/osf-make-public.jpg
 dependencies:
   - /fig/osf-new-project.jpg
   - /fig/osf-doi.jpg
   - /fig/osf-new-project-form.jpg
   - /fig/osf-component-id.jpg
   - /fig/osf-new-component-form.jpg
+  - /fig/osf-project-license.jpg
+  - /fig/osf-make-public.jpg
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: We'll create a project and a data component on the OSF where we'll
   upload our data.
