@@ -5,7 +5,8 @@ exercises: 10
 duration: 5
 summary: This part is to introduce the workshop and the attendees
 questions: null
-objectives: null
+objectives:
+  - Introduce the workshop and the attendees
 keypoints: null
 is-break: null
 ukrn_wb_rules:
